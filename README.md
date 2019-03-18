@@ -1,7 +1,7 @@
 # tesla-nlp
 Natural language processing (NLP) and visualization project using scraped twitter data
 
-This repository contains all of the files and code used to build and deploy a website for a Data Science project
+This repository contains all of the files and code used to build and deploy a website for a Data Science project.
 The website contains visualizations of various Natural Language Processing (NLP) techniques performed on data gathered by scraping Twitter. 
 The results come from searching #tesla. Also, for comparison, #ford was scraped.
 
