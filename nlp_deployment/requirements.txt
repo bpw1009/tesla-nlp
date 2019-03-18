@@ -1,0 +1,15 @@
+certifi==2019.3.9
+Click==7.0
+Flask==1.0.2
+Flask-Images==3.0.1
+Flask-WTF==0.14.2
+gunicorn==19.9.0
+itsdangerous==1.1.0
+Jinja2==2.10
+MarkupSafe==1.1.1
+Pillow==5.4.1
+pillowcase==2.0.0
+six==1.12.0
+Werkzeug==0.14.1
+wincertstore==0.2
+WTForms==2.2.1
