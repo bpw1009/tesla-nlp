@@ -6,7 +6,7 @@ from wtforms import StringField, SubmitField
 app = Flask(__name__,static_url_path='/static')
 
 
-app.config['SECRET_KEY'] = 'testkey'
+app.config['SECRET_KEY'] = '#######'
 
 class InfoForm(FlaskForm):
 
