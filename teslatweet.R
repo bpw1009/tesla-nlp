@@ -26,10 +26,10 @@ setwd('C:\\Users\\Ben\\Desktop\\UNH Classes\\Data 902\\')
 
 #### Uncomment to scrape Twitter and Save Data #####
 
-# consumer_key <- "JU2hVbxyZBb5PFXyMWGzJJTxj"
-# consumer_secret <-"2ouzY3uzBtEpdAAw2VA3C6M9ryqeuzHjteh2y4YUjjus6lcEAQ"
-# access_token <- "1088133860301463552-s5xLe7XK3qaBVEvVxXTfzpJiNex62Y"
-# access_secret <- "NKvzU1Vr7g98mIdnt66Rrf1gWgaEPwYE0UhjrHEtYzQXp"
+# consumer_key <- "####"
+# consumer_secret <-"####"
+# access_token <- "####"
+# access_secret <- "####"
 # setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 # tw = searchTwitter('#tesla -RT', n = 10000, lang = 'en')
 # d = twListToDF(tw)
@@ -335,10 +335,10 @@ chartJSRadar(emotion_overall_summary, height = 700)
 
 #### Uncomment to scrape Twitter and Save Data #####
 # 
-# consumer_key <- "JU2hVbxyZBb5PFXyMWGzJJTxj"
-# consumer_secret <-"2ouzY3uzBtEpdAAw2VA3C6M9ryqeuzHjteh2y4YUjjus6lcEAQ"
-# access_token <- "1088133860301463552-s5xLe7XK3qaBVEvVxXTfzpJiNex62Y"
-# access_secret <- "NKvzU1Vr7g98mIdnt66Rrf1gWgaEPwYE0UhjrHEtYzQXp"
+# consumer_key <- "####"
+# consumer_secret <-"####"
+# access_token <- "####"
+# access_secret <- "####"
 # setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 # tw = searchTwitter('#ford -RT', n = 10000, lang = 'en')
 # d = twListToDF(tw)
